@@ -8,10 +8,10 @@ service:
     content: "Products are available in India that are allowed to be parcelled by
       Indian Post. \nE.g Food, Books, Personal Clothes, Idols ,  Decorative Items
       etc."
-  - name: Responsive Design
+  - name: Document Parcel
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: "Notarized Documents, Paper work and other applications. \nWe can apply
+      those documents and then parcel those documents to you in minimum cost.\n"
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
