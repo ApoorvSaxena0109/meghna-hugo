@@ -15,7 +15,3 @@ skill:
     percent: 100%
   - name: Packaging
     percent: 100%
-  - name: IOS Development
-    percent: 95%
-  - name: Android Development
-    percent: 75%
